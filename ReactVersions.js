@@ -1,4 +1,4 @@
-'use strict';
+react.js'use strict';
 
 // This module is the single source of truth for versioning packages that we
 // publish to npm.
